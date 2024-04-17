@@ -6,7 +6,7 @@ What I learned doing this HomeLab:
 
 1. Virtualization Technology
 Understanding VirtualBox: Gained hands-on experience with VirtualBox, a hypervisor software that allows you to run multiple virtual machines (VMs) on a single physical machine. This includes setting up and configuring VMs with various operating systems.
-Virtual Network Configuration: Learned to configure different networking modes in VirtualBox such as NAT (Network Address Translation) and internal networking, essential for setting up isolated environments that mimic real-world network setups.
+Virtual Network Configuration: Learned to configure different networking modes in VirtualBox such as NAT (Network Address Translation) and internal networking, essential for setting up isolated environments.
 2. Windows Server Administration
 Installation and Configuration: Installed Windows Server 2019 and configured it as a domain controller, learning about the setup and deployment of Windows Server operating systems.
 Role and Feature Deployment: Gained practical experience in deploying roles and features like Active Directory Domain Services (AD DS), DHCP, and RAS (Routing and Remote Access).
