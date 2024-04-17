@@ -12,7 +12,6 @@ Installation and Configuration: Installed Windows Server 2019 and configured it 
 Role and Feature Deployment: Gained practical experience in deploying roles and features like Active Directory Domain Services (AD DS), DHCP, and RAS (Routing and Remote Access).
 3. Active Directory Management
 Active Directory Setup and Management: Learned how to set up Active Directory, manage user accounts and organizational units, and understand the role of a domain controller in managing networked resources.
-Group Policy Management: Although not detailed, typically such setups would involve learning how to create and manage Group Policy Objects (GPOs) to enforce policies across the network.
 4. Networking Fundamentals
 IP Addressing and Subnetting: Set up static IP configurations and understand IP addressing schemes, including subnetting, gateway configurations, and DNS settings.
 Network Services: Configured essential network services such as DHCP for dynamic IP address allocation and DNS for name resolution.
